@@ -23,6 +23,7 @@ Ademas las funciones facilitan la depuracion y el mantenimiento del codigo a lar
 
 """
 
+
 def my_function ():
     print("Esto es una función")
     
